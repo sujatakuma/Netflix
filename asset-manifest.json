@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:sujatakuma/Netflix.git/static/css/main.93f2a566.css",
+    "main.js": "/git@github.com:sujatakuma/Netflix.git/static/js/main.7bd7e45d.js",
+    "static/js/787.0904c1f0.chunk.js": "/git@github.com:sujatakuma/Netflix.git/static/js/787.0904c1f0.chunk.js",
+    "index.html": "/git@github.com:sujatakuma/Netflix.git/index.html",
+    "main.93f2a566.css.map": "/git@github.com:sujatakuma/Netflix.git/static/css/main.93f2a566.css.map",
+    "main.7bd7e45d.js.map": "/git@github.com:sujatakuma/Netflix.git/static/js/main.7bd7e45d.js.map",
+    "787.0904c1f0.chunk.js.map": "/git@github.com:sujatakuma/Netflix.git/static/js/787.0904c1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f2a566.css",
+    "static/js/main.7bd7e45d.js"
+  ]
+}
